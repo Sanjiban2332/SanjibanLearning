@@ -1,0 +1,4 @@
+learningapp:
+  build: .
+  ports:
+    - "8054:8054"
